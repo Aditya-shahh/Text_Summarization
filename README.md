@@ -1,7 +1,7 @@
 # Text Summarization
 ### WCN — Weighted Contextual N-gram method for evaluation of Text Summarization
 
-In this project, I fine tune T5 model on Extreme Summarization (XSum) Dataset achieveing a rouge2 f score of <b>9.5%</b> on test data. Further I discuss the drawbacks of ngram based metrics as well as contextual word metrics. 
+In this project, I fine tune T5 model on Extreme Summarization (XSum) Dataset achieving a rouge2 f score of <b>9.5%</b> on test data. Further I discuss the drawbacks of ngram based metrics as well as contextual word metrics. 
 
 Finally, I propose use of <i> Weighted Contextual N-gram (WCN)</i> method – an alternative metric which can be more effective for evaluation of text generation tasks.
 
